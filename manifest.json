@@ -9,7 +9,7 @@
     },
     "content_scripts": [
         {
-            "matches":["https://www.linkedin.com/search/results/people/*"],
+            "matches":["https://www.linkedin.com/*"],
             "js": ["scripts/content_scripts.js"]
         }
     ],
