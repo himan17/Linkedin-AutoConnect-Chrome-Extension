@@ -18,6 +18,9 @@ To install this extension, follow these steps:
 Once the extension is installed, perform a search on the platform with the desired filters. Then, click on the extension icon, popup will open, click on start and it will automatically send connection requests to the people in the search results.
 
 ## Screenshots
+### Youtube demo
+https://youtu.be/0Hr4Gk3zQ70
+
 ### Popup
 ![popup](https://i.ibb.co/DbvPf7x/image.png)
 ### Sending Requests with result
